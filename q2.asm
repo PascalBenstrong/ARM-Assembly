@@ -1,3 +1,6 @@
+@ Pascal Nsunba
+@ Student no: 396 3848
+
 .data
 print_f: .asciz "fibonacci of %d is %d\n"
 

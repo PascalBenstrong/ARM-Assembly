@@ -1,3 +1,6 @@
+@ Pascal Nsunba
+@ Student no: 396 3848
+
 .data
 .align 2
 print_format_a:
@@ -187,3 +190,4 @@ main:
 end:
 	mov r7, #1
 	swi 0
+  
